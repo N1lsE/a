@@ -1,0 +1,46 @@
+body {
+    background-color: #141b2b;
+    background-image: url(Bilder/background.jpeg);
+    background-repeat: repeat-y;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #f3fbef;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+
+.H1 {
+    font-weight: bolder;
+    margin-bottom: 2px;
+}
+
+#imagePana {
+    width: 500px;
+    margin-bottom: 2px;
+}
+
+#Quelle {
+    margin: 2px;
+    color: #aaafa7;
+    font-size: 8;
+    font-weight: 100;
+}
+#H1Section2 {
+    margin-top: 100px;
+    margin-bottom: 5;
+}
+
+#P {
+    max-width: 500px;
+}
+
+footer {
+    background-color: #141b2b;
+    margin-top: 200px;
+    padding-left: 20px;
+    color: #f3fbef;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12;
+
+}
